@@ -33,6 +33,7 @@ The deadline for finishing the article is 31 January, 23:00 CET.
 ## Articles from 2023
 
 * [A Learning Based Approach For Predicting Heart Disease by Oscar Garcia](https://www.ozkary.dev/assets/2023/ozkary-ml-heart-disease-app.png)
+* [Sentence Transformers - My (not so) Secret Weapon in the ML Zoomcamp Q&A Challenge](https://danietakeshi.github.io/articles/)
 * Add your article above this line
 
 
